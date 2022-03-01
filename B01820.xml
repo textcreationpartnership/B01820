@@ -1,0 +1,145 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Unto his Grace, his Majesties High Commissioner and the right honourable the Estates of Parliament. The humble petition of Mr. John Buchan Agent for the Royal Burrows.</title>
+            <author>Buchan, John, Agent for the Royal Burrows.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B01820</idno>
+            <idno type="STC">Wing B5271A</idno>
+            <idno type="STC">ESTC R173201</idno>
+            <idno type="EEBO-CITATION">52614532</idno>
+            <idno type="OCLC">ocm 52614532</idno>
+            <idno type="VID">175770</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B01820)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175770)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2750:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Unto his Grace, his Majesties High Commissioner and the right honourable the Estates of Parliament. The humble petition of Mr. John Buchan Agent for the Royal Burrows.</title>
+                  <author>Buchan, John, Agent for the Royal Burrows.</author>
+                  <author>Scotland. Parliament.</author>
+               </titleStmt>
+               <extent>2 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Edinburgh :</pubPlace>
+                  <date>1698]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Publication data suggested by Wing.</note>
+                  <note>Imperfect: print show-through with some loss of text.</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Trade regulation --  Scotland --  Early works to 1800.</term>
+               <term>Scotland --  Commerce --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-04</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-04</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="petition">
+            <pb n="1" facs="tcp:175770:1" rendition="simple:additions"/>
+            <head>Unto his Grace, His Majeſties high Commiſſioner and the Right Honourable the Eſtates of Parli<g ref="char:EOLhyphen"/>ament. <hi>The humble PETITION of Mr. John Buchan</hi> Agent for the <hi>Royal Bur<g ref="char:EOLhyphen"/>rows.</hi>
+            </head>
+            <p>
+               <hi>Sheweth,</hi>
+            </p>
+            <p>THat where I entered into a Contract with the <hi>Royal Borrows,</hi> in the year 1690, whereby for the Power and Commiſſion which they granted to me, to cauſe put the Act of Parliament made in their favours, the 14th of <hi>J<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ne,</hi> 1690. To Execution againſt <hi>unfree Traders,</hi> and to apply all the Fynes, Penalties and Caſualities to my own uſe and behoofe, and to Communicat the benefite of Trade to <hi>Burghs of Regality and Barrony,</hi> and others, as I should think fit, I oblidged my ſelf to relieve the ſaid <hi>Royal Burrows</hi> during the time of the ſaid Contract of Ten Pounds of the Hundred Pound of the <hi>Taxt Rolls</hi> impoſed upon the Royal Burrows by Act of Parliament, which Contract was by the Act of Parliament, 1693. Intituled <hi>Act for the Communicati<g ref="char:EOLhyphen"/>on of Trade,</hi> Ratified and Approven, and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>arder, <hi>It was ſtatute that ſicklike Execution</hi> ſhould paſs againſt the Burghs of <hi>Regality and Barronie, and others,</hi> for inbringing of their Pro<g ref="char:EOLhyphen"/>portion for Relief of the <hi>Roy<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l Burrows,</hi> which any of them ſhould agree to, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>or the ſaid Communication in the ſame manner as is uſewal againſt the <hi>Royal Burrows,</hi> for inbringing of the <hi>Ceſs</hi> payable by them; Likeas by the ſaid Act, all Perſons whatſomever, are ſtrictly diſcharged to Exerciſe any kind of Trade, under the Penalties contained in the Acts of Parliament, except Burgeſſes, Indwellers in <hi>Royal Burghs,</hi> and theſe who pay their Proportion of the ſaid <hi>Quota</hi> to be payed by the Burghs of <hi>Regality and Barrony,</hi> and other <hi>unfree Traders</hi> a foreſaid.</p>
+            <p>In proſecution of which Contract and Act, I agreed with a few Burghs of <hi>Regality</hi> and <hi>Baronie</hi> that for the <hi>Communication of a free Trade,</hi> they ſhould undertake their proportion of the ſaid Ten pound, ſuch as <hi>Greenock, Borrowstounneſs and Preſtounpans,</hi> &amp;c. Likeas there ariſing ſome Debate betwixt the <hi>Merchant-Traders</hi> and the <hi>Craftſmen</hi> in the ſaid Burghs, the Lords of Seſſion by their Decreet <hi>in foro,</hi> Found, that the Craftſmen tho not Merchant-Traders ſhould be lyable to be ſtented with the <hi>Merchant Traders</hi> of the ſaid Burgh, ſeing they and their Children might have the benefit of the ſaid Communication, ſicklike as <hi>Craftsmen in Burrows Royal;</hi> but all my Diligence not proving ſucceſsful to bring the Ge<g ref="char:EOLhyphen"/>nerality of the <hi>
+                  <g ref="char:V">Ʋ</g>nfree-traders</hi> in Burghs of <hi>Regality, Barony, and others,</hi> to an Agreement for what might be their juſt Propertions of the ſaid Ten pound, tho both ſmall and eaſie, I to facilitat the matter, did proportion the ſaid Ten pound upon the ſeveral Shires of the Kingdom, for the Unfree-Traders within the ſame, obſerving this Rule after the Experi<g ref="char:EOLhyphen"/>ence I had learned in this Affair, by much Trouble and vaſt Expences, that the Proportions were ſo ordered, ſo as the Unfree-Traders in all the ſeveral Shires did not pay the half of what was payed by the <hi>Royal Burrows</hi> within the ſaid Shire (Trade with Trade being com<g ref="char:EOLhyphen"/>pared) Which Liſt of Proportions I likewiſe exhibited to the <hi>Lords of his Majeſties Privy Council,</hi> who after having conſidered the ſame, did find it ſo reaſonable, both for the Ten pound, and <hi>three pound ten ſhilling</hi> more, which they allowed me to add <hi>to it,</hi> for my <hi>Ad<g ref="char:EOLhyphen"/>vance of Money,</hi> and great Charges and Expenſes, that they ordered a Proclamation to be emitted, appointing the Commiſſioners in the reſpective Shires to meet, in order to the
+<pb n="2" facs="tcp:175770:2"/> treating with me and my Subſtitutes, how the ſaid <hi>Quota's</hi> for the Shires might be ſubdivid<g ref="char:EOLhyphen"/>ed upon the Burghs of <hi>Regality and Baronie,</hi> and other <hi>
+                  <g ref="char:V">Ʋ</g>nfree-Traders</hi> within the ſame, but tho' I by my ſelf and Subſtitutes did attend the Meeting of the ſaid Commiſſioners, yet their Meeting and my, Treating with them, by reaſon of little Queſtions moved by theſe <hi>
+                  <g ref="char:V">Ʋ</g>nfree-Traders</hi> proved ſucceſsleſs; And that notwithſtanding that I had obtained Decreets <hi>in foro</hi> before the Lords. <hi>Finding.</hi> 1. That all <hi>Retailers of forraign Commodities and Staple-goods, not Burgeſſes and Indwellers in Burghs Royal, were lyable as <g ref="char:V">Ʋ</g>nfree-Traders.</hi> And 2. <hi>That the pain of <g ref="char:V">Ʋ</g>nfree-Traders was Eſcheat of Moveables, and that the ſame fell to me by the fore<g ref="char:EOLhyphen"/>ſaid Contract and Act of Communication;</hi> Which Difficulty proving thus inſuperable, I was ne<g ref="char:EOLhyphen"/>ceſſitate to lay the caſe before the Royal Burrows, who being ſatisfied that I had uſed all poſ<g ref="char:EOLhyphen"/>ſible Diligence, both with the Unfree-Traders themſelves, and likeways with the Commiſ<g ref="char:EOLhyphen"/>ſioners of the reſpective Shires, and by recovering the foreſaid Decreets before the Lords of Seſſion, were willing to take my Contract off my hand for hereafter, but ſtill leaving the Burden of Bygones upon me, which plainly is ſuch a Burden as I am not able to bear, but will infallibly ſink me and my ſmall Fortune, if Remedy be not provided, ſeing then that the Grounds above laid down, do fully obviat all the Petitions offered againſt me, as par<g ref="char:EOLhyphen"/>ticularly that from <hi>Air</hi> Shire, which complains of my making of their <hi>Corns, Cattel and Malt lyable,</hi> whereas I only charge the <hi>
+                  <g ref="char:V">Ʋ</g>nfree-Traders</hi> in <hi>forraign Commodities and Staple-Goods.</hi> &amp; that from <hi>Muſleburgh</hi> which directly complains of the Lords Decreet <hi>in foro</hi> againſt themſelves, without any Proteſt. And that of <hi>Kelſo</hi> which only complains of Ex<g ref="char:EOLhyphen"/>orbitancy throw their own default, without any Reaſon, and ſo of the reſt; And that I have truly payed in to the General Receiver what I crave to be relieved of, and that I am content this <hi>Honourable Court of Parliament</hi> appoint any Courſe that may be effectual for my foreſaid moſt juſt Relief in a matter wherein I have acted moſt carefully and diligently by warrant of the foreſaid Act of Communication; I ſhall only farder propoſe to <hi>your Grace</hi> and the <hi>Honourable Eſtates of Parliament,</hi> that the Method that appears moſt neceſſary and expedient for remeeding this Affair is, That there may be a Commiſſion of Parliament to a few able and proper Perſons to proportion and ſettle the foreſaid Sub-diviſion amongſt the unfree Traders with power to Determine, and with ſiclike Execution as is appointed for His Majeſties Ceſs, which Method is humbly ſuggeſted to the Parliaments Choice with all Deference to their better Judgement for my relief as to bygones: And as for the time to come, I moſt humbly offer to give over my <hi>Contract,</hi> and that if this <hi>High and Honourable Court of Parliament</hi> ſhall think fit, the Condition of the <hi>Royal Burrows</hi> may return to the ſame State wherein it was before my ſaid <hi>Contract,</hi> and the Act 1693, Ratifieing the ſame.</p>
+            <closer/>
+            <postscript>
+               <p>May it therefore pleaſe your Grace, and the High and Honourable Court of Parliament, to take the Premiſſes to your Conſideration, and appoint ſuch Methods and Re<g ref="char:EOLhyphen"/>meedies, as I may be Relieved and Re-imburſed of the great Sums I have Advanced in manner foreſaid; and that for time coming this Matter may be ſo ordered as may be moſt eaſie for all Traders, and moſt Advantagious for the Common-Good of the Kingdom, And your Grace, and Lordſhips Petitioner ſhall ever pray <hi>&amp;c.</hi>
+               </p>
+            </postscript>
+         </div>
+      </body>
+   </text>
+</TEI>
